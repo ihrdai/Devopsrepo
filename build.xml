@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="Devops Project"
+default="info">
+<target name="info"><echo>Welcome to Devops Project
+Welcome to Apache ANT!</echo>
+</target>
+</project>
